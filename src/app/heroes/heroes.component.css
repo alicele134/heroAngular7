@@ -6,7 +6,7 @@
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
-  background-color: red;
+  background-color: gray ;
   padding: 0;
   width: 15em;
 }
